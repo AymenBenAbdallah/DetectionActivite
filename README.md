@@ -1,2 +1,2 @@
 # DetectionActivite
-Détection d’activités humainesvia capteur smartphone
+Détection d’activités humaines via capteur smartphone
